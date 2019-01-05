@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "magento-notify",
-  "private_key_id": "7af278ea1e6300bc288ecd7f937fd42c660050db",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1PypWHYfX6uom\nRyEbI4EsJiC7CafZRDIY1R9RhwVvAWRogJM+53ipu9aRirAF44cUcbd9f7fWwIuJ\nH+lFN3XIeNQ4DpW/B7AjSbrg/FiUwABBLzB5EKIHzhMTiDR51Qi6sORo6YZ+Jox0\nJie7jfp+fp4lqHjjslUY/sYDRyeGZ5pa6csvuXb6vYnhIrF+jO5sgrL4NmOtt9m5\nD8wiRrkZAot9/7w7fJh4ZAYG0uuPkykwKCikqj0sv3e72TKiIrR3QYeTTRgCkdJa\nWZvCgc7kNjHEee1THzcEMthcJuG29lZVLcbepx76CbPqi0iwD3Muz2jM9Pxy0djy\n8MM8MVgHAgMBAAECggEAAKT12JKIThs2s+Yi1v7cUbTc/u083IfiibYQQ3DwcwGV\nQs3aOCoIgsn5LFFK6OpzK35wAZE3rRrIJDep06Yr1Aeh8YUTwTccyDNV58Dd68F2\n/sRVLskBWnfAF5yvWxOH0WoZlcnmwYIPk8Yi9AbAMjzvAQFFVMHojYsyVwakvFSW\nbes8E2XNF9LT9Am9K0dSnP3GUvBo07ZZWeTrJzB11CmvycbA8nw3+BGHSaXF1wdC\ntXA5jAA8HmKCKpBbf73wsqY9OlaQ3V/DvZi1QpG7lenf69bPdPinOUo5XGkexHsx\nBbfpgIhriFmJRauUPmrUzT64rTpu8KkZt9q0TOwRQQKBgQDmTSWfpg2M4O3m9/f0\ntskBWHnpEZgQdJuKZxkdlQIzcbE1Zr/IlnWJHIM+QYk9kjgcZ2TCKH7g0l8yPiYM\nbPOAHssMJ1igZSKsSzcJzJ+dPimweGHmgfN7+rR97tEVfJiTS9d3PHMySHc1Tick\nds2mJcfuQveZ40HqfbiwlsYe5wKBgQDJeLXkhoK5EjT2j2ki8PnhvwHZmOcY24bQ\ns3PiEqL908xyJglR3xO+1mMixTip0DKvuXRPKgF6b6lHm+NsaonqFYKz66HXRNh/\nwbty5E/lIJlSXffWtq5DVwKVD2p6QzN1IHtsz1XppoJt50Rfjt/GW/Ti+Na+v9xs\n3Aioe0N54QKBgQDKkJjDL59DhqQ6P2lNSWjLUjMImX0THD2jIsOojWP+M8YWnmWZ\n3R1MmFOn8qTwDyhjc13gmRXgUamB28BDtaEH1A3shr8hdVNmEFI8wEq0V/T7Tydt\nRGgRaJZRHjmxmIHrLQ47xmPcmnif3jn3jLedqCWOoECAjq9vvV0xlax1iQKBgE2f\nZmUvtfncG+/K/TTrJztkvi+6C3+2RNDv8vvtNkMZcTGhmgGjMxZZv0RMPDKg9oZh\nq4A8rOkhUFU4qHzC53P66aqsZGRuMAO4/qGbeXTMBIaJkc12ANoNEf+gOuP0NEUy\nSJt5np4w+xug+OTgRTNFhqpUOViwzxpaBDP1md/BAoGBAMl4mAZ36lOPgbTvZ+c1\nolzoElwmBKah7PVDgv/XfK9ym87RPe8v6D0TB7+Sck/kHHl+5FUyD8i8i9xoYrKo\n9qPrryMINFirCtksiT2jBgeuFCoDjDVdE8y9lhhhv2C+nfFeesEj1DZ4AdF7Fmki\nxH7/Zh0QTBrsdrzTYYSsb7Qq\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-lzt1k@magento-notify.iam.gserviceaccount.com",
-  "client_id": "104216833517187470914",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lzt1k%40magento-notify.iam.gserviceaccount.com"
-}
+your service
